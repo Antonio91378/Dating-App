@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RpBFd4b0UlOwEAnf2NnSI9+7YQMC3LNnCcixypfJOInAGTgtFTQYXip1SespCf/vJDHE8vLa7NuYahIJ7WXVig==",
+  "dgSpecHash": "tj8NbQRN5Vf1b79xZCFDeTvknLGSQ7A7oMILGc1uPYseXgpw70bCv7yj+uoPezizV3O1PL6Qm7b16Z+Ftaq62A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.dias\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
