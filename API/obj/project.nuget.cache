@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C74BsvsEmdEQ+NCiK7U1ObBWNvPs/YXK7c1fKf0vm4nAw1+tq1n7ZWzVr6A7AEY+QMMAlhbsfgWE91AAet7vfA==",
+  "dgSpecHash": "MESkYp9KfZU30dXl6rZZNbu8CAieRf5oaHeA7M1C1H+DJsAXkAH2aGsCOcVYQI8RPahLtfW0eCulkG5rK1ZI9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.dias\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.7\\microsoft.aspnetcore.authentication.jwtbearer.3.1.7.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.1\\microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.1\\microsoft.entityframeworkcore.sqlite.5.0.1.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.1\\microsoft.entityframeworkcore.sqlite.core.5.0.1.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.1\\microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",

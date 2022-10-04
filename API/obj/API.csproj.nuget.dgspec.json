@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj": {}
+    "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj": {
+    "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\API.csproj",
+        "projectPath": "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\antonio.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antonio.dias\\Desktop\\me\\Dating App\\Dating-App\\API\\obj\\",
+        "outputPath": "C:\\Users\\antonio.dias\\Desktop\\me\\Personal_Projects\\Dating App\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,12 @@
               "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.1, )"
             },
